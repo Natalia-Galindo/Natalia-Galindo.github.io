@@ -1,1 +1,5 @@
 theme: jekyll-theme-dinky
+markdown: markdown
+title: Equipo
+description: Curso
+show_downloads: true
